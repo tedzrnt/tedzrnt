@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+%F0%9F%91%8B;I'm+Tedi+Tenaro;Security+Learner+%7C+Web+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+%F0%9F%91%8B;I'm+Tedi+Tenaro;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -31,9 +31,10 @@
 
 ```yaml
 name      : Tedi Tenaro
+location  : Indonesia
 focus     : Cybersecurity & Web Development
-learning  : Ethical Hacking - Penetration Testing - Web Security
-reading   : Books Enthusiast
+learning  : Ethical Hacking · Penetration Testing · Web Security
+reading   : Always got a book open
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -141,7 +142,8 @@ reading   : Books Enthusiast
 
 <div align="center">
 
-`^^`
+`breaking things ethically by day · building things by night · always got a book open`
+
 </div>
 
 <div align="center">
