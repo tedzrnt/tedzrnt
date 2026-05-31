@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+%F0%9F%91%8B;I'm+Tedi+Tenaro+%F0%9F%94%90;Security+Learner+%7C+Web+Developer;Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+%F0%9F%91%8B;I'm+Tedi+Tenaro;Security+Learner+%7C+Web+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -29,16 +29,12 @@
 
 <h2 align="center">👾 About Me</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Learning+Cybersecurity+%F0%9F%94%90;Building+things+on+the+web+%F0%9F%8C%90;Book+enthusiast+%F0%9F%93%96;Always+curious%2C+always+learning+%F0%9F%9A%80" alt="About me" />
-</p>
-
 ```yaml
 name      : Tedi Tenaro
-location  : Indonesia 🇮🇩
+location  : Indonesia
 focus     : Cybersecurity & Web Development
 learning  : Ethical Hacking · Penetration Testing · Web Security
-reading   : Always got a book open 📖
+reading   : Always got a book open
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -145,7 +141,9 @@ reading   : Always got a book open 📖
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Breaking+things+ethically+by+day+%F0%9F%94%90;Building+things+by+night+%F0%9F%8C%90;Always+got+a+book+open+%F0%9F%93%96" alt="Footer" />
+
+`breaking things ethically by day · building things by night · always got a book open`
+
 </div>
 
 <div align="center">
