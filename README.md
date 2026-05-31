@@ -30,11 +30,9 @@
 <h2 align="center">👾 About Me</h2>
 
 ```yaml
-name      : Tedi Tenaro
-location  : Indonesia
 focus     : Cybersecurity & Web Development
-learning  : Ethical Hacking · Penetration Testing · Web Security
-reading   : Always got a book open
+learning  : Ethical Hacking - Penetration Testing - Web Security
+reading   : Books Enthusiast
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -142,8 +140,7 @@ reading   : Always got a book open
 
 <div align="center">
 
-`breaking things ethically by day · building things by night · always got a book open`
-
+`^^`
 </div>
 
 <div align="center">
